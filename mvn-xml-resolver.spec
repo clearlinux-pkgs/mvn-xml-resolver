@@ -4,7 +4,7 @@
 #
 Name     : mvn-xml-resolver
 Version  : 1.2
-Release  : 1
+Release  : 2
 URL      : http://mirror.metrocast.net/apache/xerces/xml-commons/xml-commons-resolver-1.2.tar.gz
 Source0  : http://mirror.metrocast.net/apache/xerces/xml-commons/xml-commons-resolver-1.2.tar.gz
 Source1  : https://repo.gradle.org/gradle/libs-releases/xml-resolver/xml-resolver/1.2/xml-resolver-1.2.jar
